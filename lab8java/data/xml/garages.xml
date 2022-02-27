@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.9.1" class="java.beans.XMLDecoder">
+ <object class="lab8.Garages" id="Garages0">
+  <void id="ArrayList0" property="bd">
+   <void method="add">
+    <object class="lab8.Garage" id="Garage0">
+     <void property="address">
+      <string>PervayaStreet 1</string>
+     </void>
+     <void property="date">
+      <string>1 January 2001</string>
+     </void>
+     <void id="ArrayList1" property="marks">
+      <void method="add">
+       <string>Audi</string>
+      </void>
+      <void method="add">
+       <string>BMW</string>
+      </void>
+      <void method="add">
+       <string>Ford</string>
+      </void>
+      <void method="add">
+       <string>Honda</string>
+      </void>
+      <void method="add">
+       <string>Hyundai</string>
+      </void>
+      <void method="add">
+       <string>Kia</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList1"/>
+     </void>
+     <void id="ArrayList2" property="masters">
+      <void method="add">
+       <string>Vasya</string>
+      </void>
+      <void method="add">
+       <string>Petya</string>
+      </void>
+      <void method="add">
+       <string>Vali</string>
+      </void>
+      <void method="add">
+       <string>Suryk</string>
+      </void>
+      <void method="add">
+       <string>Amanzhol</string>
+      </void>
+      <void method="add">
+       <string>Zhandos</string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList2"/>
+     </void>
+     <void property="num">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="lab8.Garage" id="Garage1">
+     <void property="address">
+      <string>VtorayaStreet 2</string>
+     </void>
+     <void property="date">
+      <string>2 February 2002</string>
+     </void>
+     <void id="ArrayList3" property="marks">
+      <void method="add">
+       <string>Lada</string>
+      </void>
+      <void method="add">
+       <string>Mazda</string>
+      </void>
+      <void method="add">
+       <string>Mercedes-Benz</string>
+      </void>
+      <void method="add">
+       <string>Mitsubishi</string>
+      </void>
+      <void method="add">
+       <string>Acura</string>
+      </void>
+      <void method="add">
+       <string>Daihatsu</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList3"/>
+     </void>
+     <void id="ArrayList4" property="masters">
+      <void method="add">
+       <string>Gabit</string>
+      </void>
+      <void method="add">
+       <string>Manar</string>
+      </void>
+      <void method="add">
+       <string>Maulen</string>
+      </void>
+      <void method="add">
+       <string>Vitya</string>
+      </void>
+      <void method="add">
+       <string>Sasha</string>
+      </void>
+      <void method="add">
+       <string>Oleg</string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList4"/>
+     </void>
+     <void property="num">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="lab8.Garage" id="Garage2">
+     <void property="address">
+      <string>TretyaStreet 3</string>
+     </void>
+     <void property="date">
+      <string>3 March 2003</string>
+     </void>
+     <void id="ArrayList5" property="marks">
+      <void method="add">
+       <string>Nissan</string>
+      </void>
+      <void method="add">
+       <string>Renault</string>
+      </void>
+      <void method="add">
+       <string>Skoda</string>
+      </void>
+      <void method="add">
+       <string>Toyota</string>
+      </void>
+      <void method="add">
+       <string>Hyundai</string>
+      </void>
+      <void method="add">
+       <string>Kia</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList5"/>
+     </void>
+     <void id="ArrayList6" property="masters">
+      <void method="add">
+       <string>Sasha</string>
+      </void>
+      <void method="add">
+       <string>Zhora</string>
+      </void>
+      <void method="add">
+       <string>Avram</string>
+      </void>
+      <void method="add">
+       <string>Ybyrai</string>
+      </void>
+      <void method="add">
+       <string>Nurasyl</string>
+      </void>
+      <void method="add">
+       <string>Nurlan</string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList6"/>
+     </void>
+     <void property="num">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="lab8.Garage" id="Garage3">
+     <void property="address">
+      <string>ChetvertayaStreet 4</string>
+     </void>
+     <void property="date">
+      <string>4 April 2004</string>
+     </void>
+     <void id="ArrayList7" property="marks">
+      <void method="add">
+       <string>Mercedes-Benz</string>
+      </void>
+      <void method="add">
+       <string>Mitsubishi</string>
+      </void>
+      <void method="add">
+       <string>Acura</string>
+      </void>
+      <void method="add">
+       <string>Audi</string>
+      </void>
+      <void method="add">
+       <string>BMW</string>
+      </void>
+      <void method="add">
+       <string>Nissan</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList7"/>
+     </void>
+     <void id="ArrayList8" property="masters">
+      <void method="add">
+       <string>Nurasyl</string>
+      </void>
+      <void method="add">
+       <string>Nurlan</string>
+      </void>
+      <void method="add">
+       <string>Suryk</string>
+      </void>
+      <void method="add">
+       <string>Amanzhol</string>
+      </void>
+      <void method="add">
+       <string>Maulen</string>
+      </void>
+      <void method="add">
+       <string>Vitya</string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList8"/>
+     </void>
+     <void property="num">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="lab8.Garage" id="Garage4">
+     <void property="address">
+      <string>PyatayaStreet 5</string>
+     </void>
+     <void property="date">
+      <string>5 May 2005</string>
+     </void>
+     <void id="ArrayList9" property="marks">
+      <void method="add">
+       <string>Lada</string>
+      </void>
+      <void method="add">
+       <string>Mazda</string>
+      </void>
+      <void method="add">
+       <string>Renault</string>
+      </void>
+      <void method="add">
+       <string>Skoda</string>
+      </void>
+      <void method="add">
+       <string>Kia</string>
+      </void>
+      <void method="add">
+       <string>Audi</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList9"/>
+     </void>
+     <void id="ArrayList10" property="masters">
+      <void method="add">
+       <string>Sasha</string>
+      </void>
+      <void method="add">
+       <string>Zhora</string>
+      </void>
+      <void method="add">
+       <string>Vasya</string>
+      </void>
+      <void method="add">
+       <string>Petya</string>
+      </void>
+      <void method="add">
+       <string>Azat</string>
+      </void>
+      <void method="add">
+       <string>Arman </string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList10"/>
+     </void>
+     <void property="num">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="lab8.Garage" id="Garage5">
+     <void property="address">
+      <string>ShestayaStreet 6</string>
+     </void>
+     <void property="date">
+      <string>6 June 2006</string>
+     </void>
+     <void id="ArrayList11" property="marks">
+      <void method="add">
+       <string>Honda</string>
+      </void>
+      <void method="add">
+       <string>Hyundai</string>
+      </void>
+      <void method="add">
+       <string>Kia</string>
+      </void>
+      <void method="add">
+       <string>BMW</string>
+      </void>
+      <void method="add">
+       <string>Lada</string>
+      </void>
+      <void method="add">
+       <string>Nissan</string>
+      </void>
+     </void>
+     <void property="marks">
+      <object idref="ArrayList11"/>
+     </void>
+     <void id="ArrayList12" property="masters">
+      <void method="add">
+       <string>Ybyrai</string>
+      </void>
+      <void method="add">
+       <string>Nurasyl</string>
+      </void>
+      <void method="add">
+       <string>Suryk</string>
+      </void>
+      <void method="add">
+       <string>Amanzhol</string>
+      </void>
+      <void method="add">
+       <string>Sasha</string>
+      </void>
+      <void method="add">
+       <string>Oleg</string>
+      </void>
+     </void>
+     <void property="masters">
+      <object idref="ArrayList12"/>
+     </void>
+     <void property="num">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="bd">
+   <object idref="ArrayList0"/>
+  </void>
+ </object>
+</java>
